@@ -40,7 +40,7 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 ---
 
-# Packet Switching
+# [fit] Packet Switching
 
 ---
 
