@@ -1,5 +1,5 @@
 theme: Plain Jane, 2
-footer: Kenji Rikitake / oueees 20220621 topic00
+footer: Kenji Rikitake / oueees 20220621 topic05
 slidenumbers: true
 autoscale: true
 
