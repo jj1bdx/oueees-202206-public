@@ -62,13 +62,13 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 # [fit] Since 24-FEB-2022:
 # [fit] WAR on Ukraine
-# [fit] by the Russian full invasion against the democracy
+# [fit] by Russian full invasion against the democracy
 
 ---
 
 # [fit] Since 24-FEB-2022:
 # [fit] WAR on Ukraine
-# [fit] by the Russian full invasion against the democracy
+# [fit] by Russian full invasion against the democracy
 # [fit] and **Japan has already engaged in**
 
 ---
@@ -140,6 +140,7 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 ![original,fit](mikhail-volkov-2KRGjLL4xYo-unsplash.jpeg)
 
 # Borodyanka, Kyiv Oblast, Ukraine
+# after 24-FEB-2022 Russian invasion
 
 ---
 
@@ -147,7 +148,7 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 # [fit] 2022
 # [fit] War on Ukraine
-# [fit] by the Russian full invasion against the democracy
+# [fit] by Russian full invasion against the democracy
 
 ---
 
