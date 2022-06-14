@@ -1,5 +1,5 @@
 theme: Plain Jane, 2
-footer: Kenji Rikitake / oueees 20210622 topic01
+footer: Kenji Rikitake / oueees 20220621 topic01
 slidenumbers: true
 autoscale: true
 
@@ -14,12 +14,12 @@ autoscale: true
 
 # Kenji Rikitake
 
-22-JUN-2021
+21-JUN-2022
 School of Engineering Science, Osaka University
 On the internet
 @jj1bdx
 
-Copyright ©2018-2021 Kenji Rikitake.
+Copyright ©2018-2022 Kenji Rikitake.
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ---
@@ -59,7 +59,7 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 * Water: 1.3330 for λ=589.3 nm [^1] -> 224901 km/s
 * Silica glass (optic fiber): 1.45 [^2] -> 206753 km/s
 
-[^1]: 理科年表2021、丸善、ISBN: 978-4-621-30560-7, pp. 477-479
+[^1]: 「光学的性質」、理科年表2022、丸善、ISBN: 978-4-621-30648-2, pp. 477-479
 
 [^2]: <https://apniphysics.com/classroom/optical-fiber-refractive-index/>
 
@@ -71,6 +71,7 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 * Tokyo, Japan to San Francisco, CA, USA: ~8300km ~= 28ms (in vacuum/air), 41ms (in silica glass)
 * Japan <-> USA in optic fiber, round trip: ~100ms or more
 * *Synchronization is hard*
+* A question: can you play a network real-time game in the global scale, e.g., between Tokyo, New York, and Paris?
 
 ---
 
