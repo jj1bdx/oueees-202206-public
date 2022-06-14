@@ -17,7 +17,7 @@ School of Engineering Science, Osaka University
 On the internet
 @jj1bdx
 
-Copyright ©2018-2021 Kenji Rikitake.
+Copyright ©2018-2022 Kenji Rikitake.
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ---
