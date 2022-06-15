@@ -112,7 +112,7 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 > Information warfare (IW) (as different from cyber warfare that attacks computers, software, and command control systems) is a concept involving the battlespace use and management of information and communication technology (ICT) in pursuit of a competitive advantage over an opponent. 
 -- Wikipedia [^1]
 
-[^1]: https://en.wikipedia.org/wiki/Information_warfare
+[^1]: <https://en.wikipedia.org/wiki/Information_warfare>
 
 ---
 
@@ -126,7 +126,7 @@ Unencrypted communications are thoroughly monitored and actually exploited to ne
 
 All radio airwaves are heard and can be heard from several hundred kilometers (or even more from satellites or through the ionospheric propagation)
 
-[^2]: Killed in Action (NATO definition) Wikipedia: https://en.wikipedia.org/wiki/Killed_in_action
+[^2]: Killed in Action (NATO definition) Wikipedia: <https://en.wikipedia.org/wiki/Killed_in_action>
 
 ---
 
@@ -138,7 +138,7 @@ Aircrafts outside the battlespace can find the direction of the incoming signal
 
 Aggregating the reception timing difference information of three (3) or more aircrafts receiving the signal for the enemy, the position of the enemy can be precisely estimated (four (4) or more for also locating the altitude) [^3]
 
-[^3]: Hyperbolic navigation / Wikipedia: https://en.wikipedia.org/wiki/Hyperbolic_navigation
+[^3]: Hyperbolic navigation / Wikipedia: <https://en.wikipedia.org/wiki/Hyperbolic_navigation>
 
 ---
 
