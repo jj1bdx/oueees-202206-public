@@ -101,6 +101,69 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 ---
 
+# [fit] Information warfare
+# and
+# [fit] radio surveillance
+
+---
+
+# Information warfare
+
+> Information warfare (IW) (as different from cyber warfare that attacks computers, software, and command control systems) is a concept involving the battlespace use and management of information and communication technology (ICT) in pursuit of a competitive advantage over an opponent. 
+-- Wikipedia [^1]
+
+[^1]: https://en.wikipedia.org/wiki/Information_warfare
+
+---
+
+# What Russo-Ukraine War has revealed so far as of June 2022
+
+---
+
+# *DON'T: unencrypted communications are still widely used in the battlespace (?!)*
+
+Unencrypted communications are thoroughly monitored and actually exploited to neutralize weapons, soldiers and commanders: many commanders of Russian Forces became KIA [^2]
+
+All radio airwaves are heard and can be heard from several hundred kilometers (or even more from satellites or through the ionospheric propagation)
+
+[^2]: Killed in Action (NATO definition) Wikipedia: https://en.wikipedia.org/wiki/Killed_in_action
+
+---
+
+![right,fit](triangulation.png)
+
+# Locating enemies by triangulation from outside the battlespace
+
+Aircrafts outside the battlespace can find the direction of the incoming signal
+
+Aggregating the direction information of three (3) or more aircrafts receiving the signal for the enemy, the position of the enemy can be precisely estimated (four (4) or more for also locating the altitude)
+
+---
+
+# *DON'T: smartphone and cell phone networks are NOT protected end-to-end and can be monitored!*
+
+Using a SIM card provided by *the adversaries* on your smartphone means all your communication contents are *thoroughly wiretapped and can be exploited against you!*
+
+TLDR: *don't use a SIM card dropped on the floor or given by an untrusted person!* 
+
+Corollary: *don't use an USB memory or a MicroSD card dropped on the floor or given by an untrusted person!*
+
+---
+
+# DO: always use encryption during (or even not during) the war
+
+Modern TLS and HTTPS encryption is strong enough to thwart an attempt to eavesdrop the communication
+
+Using a strong end-to-end encryption such as OpenPGP and GnuPG is a plus (though the user interface is still clumsy)
+
+*NOTE WELL AND CAUTION: "safe" messaging services are not necessarily really so*, especially the centralized ones!
+
+---
+
+# TLDR: your radiowave emission can be monitored by unwanted and untrusted people and can be exploited and used against you at any time. You have been warned.
+
+---
+
 # Photo and image credits
 
 * All photos and images are modified and edited by Kenji Rikitake
