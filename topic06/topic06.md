@@ -136,7 +136,9 @@ All radio airwaves are heard and can be heard from several hundred kilometers (o
 
 Aircrafts outside the battlespace can find the direction of the incoming signal
 
-Aggregating the direction information of three (3) or more aircrafts receiving the signal for the enemy, the position of the enemy can be precisely estimated (four (4) or more for also locating the altitude)
+Aggregating the reception timing difference information of three (3) or more aircrafts receiving the signal for the enemy, the position of the enemy can be precisely estimated (four (4) or more for also locating the altitude) [^3]
+
+[^3]: Hyperbolic navigation / Wikipedia: https://en.wikipedia.org/wiki/Hyperbolic_navigation
 
 ---
 
