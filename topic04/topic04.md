@@ -144,13 +144,33 @@ A physical server is separated into multiple virtual machines
 
 ---
 
-# Why cloud computing has become so *dystopian*? -- because we have sold freedom for *convenience*
+# Historical examples of INGSOC-like nations
+
+* Nazi Germany [^3]
+* Empire of Japan [^4] (Japan in 1868-1947)
+* Soviet Union [^5] 
+
+[^3]: https://en.wikipedia.org/wiki/Nazi_Germany
+
+[^4]: https://en.wikipedia.org/wiki/Empire_of_Japan
+
+[^5]: https://en.wikipedia.org/wiki/Soviet_Union
+
+---
+
+# [fit] Why cloud computing has become
+# [fit] so *dystopian*?
+
+---
+
+# We have sold freedom for *convenience*
 
 * Ubiquitous/global accessibility
 * Concentrated data for easy analysis
 * Easy control of the information flow
 * No extra cost for sharing
 * No need to think about where the information locates
+* A useful tool for fascist and despotic regimes
 
 ---
 
@@ -172,7 +192,7 @@ A physical server is separated into multiple virtual machines
 
 # Centralized systems are *not* sustainable
 
-- ...then how cloud computing systems manages the sustainability?
+## ...then how cloud computing systems manages the sustainability?
 
 ---
 
