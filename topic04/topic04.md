@@ -150,11 +150,11 @@ A physical server is separated into multiple virtual machines
 * Empire of Japan [^4] (Japan in 1868-1947)
 * Soviet Union [^5] 
 
-[^3]: https://en.wikipedia.org/wiki/Nazi_Germany
+[^3]: <https://en.wikipedia.org/wiki/Nazi_Germany>
 
-[^4]: https://en.wikipedia.org/wiki/Empire_of_Japan
+[^4]: <https://en.wikipedia.org/wiki/Empire_of_Japan>
 
-[^5]: https://en.wikipedia.org/wiki/Soviet_Union
+[^5]: <https://en.wikipedia.org/wiki/Soviet_Union>
 
 ---
 
