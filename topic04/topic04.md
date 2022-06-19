@@ -40,6 +40,14 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 ---
 
+# Errata on Topic 03:
+# TCP is *Tranmission Control Protocol (RFC793)* [^0]
+## I regret the error. I'm very sorry.
+
+[^0]: See also <https://www.ietf.org/archive/id/draft-ietf-tcpm-rfc793bis-28.html>
+
+---
+
 # [fit] Cloud computing basics
 
 ---
