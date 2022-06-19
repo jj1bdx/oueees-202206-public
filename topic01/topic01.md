@@ -3,7 +3,7 @@ footer: Kenji Rikitake / oueees 20220621 topic01
 slidenumbers: true
 autoscale: true
 
-# oueees-202106 topic 01:
+# oueees-202206 topic 01:
 # Latency and laws of physics
 # Centralized Communication
 # Multiplexing
